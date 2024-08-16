@@ -1,0 +1,55 @@
+1. What is Python?
+Python is a high-level, interpreted programming language known for its simplicity and
+readability. It emphasizes code readability and encourages a clean and concise coding style.
+2. What are the key features of Python?
+Key features of Python include its easy-to-read syntax, dynamic typing, automatic memory
+management, extensive standard library, and support for multiple programming paradigms.
+3. How is Python different from other programming languages?
+Python stands out with its simplicity, readability, and easy-to-understand syntax. It has a
+large and active community, extensive libraries, and is widely used in various domains such
+as web development, data analysis, and scientific computing.
+4. What is PEP 8?
+PEP 8 is the official style guide for Python code. It provides guidelines on how to format
+Python code to enhance readability and maintain consistency across projects.
+5. What are Python modules?
+Python modules are files containing Python code that define functions, classes, and variables.
+They allow code reuse and organization, making it easier to manage and maintain larger
+projects.
+6. What is a Python package?
+A Python package is a way to organize related modules into a directory hierarchy. It allows
+for a logical grouping of modules, making it easier to manage and distribute code.
+7. How do you comment in Python?
+Comments in Python are denoted by the # character. Anything after the # is considered a
+comment and is ignored by the Python interpreter.
+8. What are Python data types?
+
+Python supports various data types, including integers, floating-point numbers, strings, lists,
+tuples, dictionaries, and booleans. Each data type has its own characteristics and uses.
+9. What is type conversion in Python?
+Type conversion, also known as type casting, is the process of converting one data type into
+another. Python provides built-in functions like int(), float(), str(), etc., to perform type
+conversion.
+10. What is string interpolation in Python?
+String interpolation in Python allows you to embed expressions or variables within a string,
+making it easier to construct dynamic strings. It can be done using f-strings or the format()
+method.
+11. What are Python conditional statements?
+Python conditional statements, such as if, elif, and else, allow you to perform different
+actions based on certain conditions. They control the flow of the program based on the
+truthfulness of the conditions.
+12. What are Python loops?
+Python loops, like for and while, enable you to execute a block of code repeatedly. They
+iterate over a sequence or execute until a specific condition is met.
+13. What is the difference between range() and xrange() in Python 2?
+In Python 2, range() generates a list of numbers, while xrange() returns an iterator. xrange() is
+more memory-efficient for large ranges because it generates values on the fly.
+14. What are Python functions?
+Python functions are reusable blocks of code that perform a specific task. They help in code
+organization, reusability, and modularity. Functions can accept arguments and return values.
+15. What is the difference between a function and a method in Python?
+In Python, a function is a standalone block of code that can be called independently. A
+method, on the other hand, is a function that is associated with an object or a class and can
+access the object's data.
+16. How do you define a function in Python?
+A function in Python is defined using the def keyword, followed by the function name,
+parentheses for parameters (if any), and a colon. The function body is indented below.
