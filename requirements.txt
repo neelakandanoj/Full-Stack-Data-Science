@@ -1,6 +1,6 @@
 scikit-learn
 pandas
 numpy
-ipykernal
 lxml
 matplotlib
+streamlit
